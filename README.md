@@ -42,14 +42,21 @@ The program tracks a specified stock (in this case, Tesla, Inc. - TSLA) and chec
 
 
 ## Use Cases
+
 Daily Market Watch: Stay updated on price movements for personal investments.
+
 Automated Alerts: Save time by automating news tracking and notifications for significant market changes.
+
 Financial News Aggregation: Automatically get related news when important stock fluctuations occur.
-Challenges
+
+## Challenges
 API Rate Limits: Managing rate limits and avoiding request throttling for continuous data fetching.
+
 Handling Sensitive Data: Implemented environment variables to protect API keys and email credentials.
+
 Error Handling: Ensuring the program handles network errors, API downtime, and email service issues gracefully.
-Importance
+
+## Importance
 This project provides a quick, real-time way for users to monitor stock price changes and get relevant news without having to manually check financial news or stock prices, helping users make informed financial decisions quickly.
 
    
